@@ -1,4 +1,4 @@
-public class sum {
+public class two {
     public static void main(String[] args) {
         double n=4;
         double m=17;
